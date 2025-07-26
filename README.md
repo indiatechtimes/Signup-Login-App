@@ -1,16 +1,28 @@
-# firebase1
+# Login Signup Application using Firebase.
 
 A new Flutter project.
 
-## Getting Started
+## Technology used:
 
-This project is a starting point for a Flutter application.
+This is a simple Login Signup project using Firebase.
+[ Firebase realtime database ,  
+  Firebase Authentication ,
+  Firebase Storage,
+]
 
-A few resources to get you started if this is your first Flutter project:
+## GETX 
+This project and all the technology is wraped under the GETx Library.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## use [Authentication]
+You can Signup ,
+You can Login ,
+You can Reset your Passcode,
+
+## use [Firebase Realtime Database]
+You can CREATE a post ,
+You can READ a post ,
+You can UPDATE a post ,
+You can DELETE a post ,
+
+
