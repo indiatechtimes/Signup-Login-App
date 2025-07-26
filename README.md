@@ -11,7 +11,7 @@ This is a simple Login Signup project using Firebase.
 ]
 
 ## GETX 
-This project and all the technology is wraped under the GETx Library.
+This project and all the technology is wrapped under the GETx Library.
 
 
 ## use [Authentication]
